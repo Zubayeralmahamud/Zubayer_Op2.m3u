@@ -32,3 +32,6 @@ http://public.iptv18.tech/push.php?id=24016
 
 #EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Star Sports 1 HD 2
 http://public.iptv18.tech/push.php?id=22149
+
+#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Star Sports 1 HD MQ
+https://vkvsd34.mycdn.me/hls/6641171237420.m3u8/sig/RgG3xcRbdtM/srcIp/103.61.224.59/urls/185.226.52.98/expires/1717793922573/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7420482497324/id/6641171237420/video.m3u8?p
