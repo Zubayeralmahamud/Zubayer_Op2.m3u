@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Super Sport Cricket 
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Supersport2012.jpg" group-title="Zubayer Op",Super Sport Cricket 
 http://public.iptv18.tech/smart.php?id=12167
 
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD
 http://public.iptv18.tech/smart.php?id=12148
 
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Star Sports 1 Hindi HD
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 Hindi HD
 http://public.iptv18.tech/smart.php?id=12149
 
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Willow Cricket HD
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket HD
 http://public.iptv18.tech/smart.php?id=10516
 
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Willow Cricket FHD
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket FHD
 http://public.iptv18.tech/smart.php?id=2084
 
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Sky Cricket HD
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1507600280/1134.png" group-title="Zubayer Op",Sky Cricket HD
 http://public.iptv18.tech/smart.php?id=8894
