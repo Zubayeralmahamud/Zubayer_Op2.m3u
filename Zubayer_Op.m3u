@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Zubayer Op",Super Sport Cricket 
+#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Toffee EN Only Ns Player 
+https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717358574:KeyName=prod_live_events:Signature=0Qd6z2JyvN_eq5_LGGBgsGQ77bah8Y0gOCzBxJU4IbuyUvnVttqnRywNMGjF_KEu3SmvEz1L5-1aYjQNKrssDA
+
+#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Super Sport Cricket 
 http://public.iptv18.tech/smart.php?id=12167
 
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD
