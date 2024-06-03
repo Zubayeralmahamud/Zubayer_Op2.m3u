@@ -24,6 +24,9 @@ http://public.iptv18.tech/smart.php?id=2084
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1507600280/1134.png" group-title="Zubayer Op",Sky Cricket HD
 http://public.iptv18.tech/push.php?id=5770
 
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1507600280/1134.png" group-title="Zubayer Op",Sky Cricket FHD
+http://public.iptv18.tech/push.php?id=23946
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240205190515" group-title="Zubayer Op",Astro Cricket 
 http://public.iptv18.tech/smart.php?id=12141
 
