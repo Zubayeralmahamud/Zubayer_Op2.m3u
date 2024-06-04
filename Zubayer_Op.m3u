@@ -6,13 +6,13 @@ https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-1
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" group-title="Zubayer Op",Toffee Bangla 
 https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-2
 
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Super Sport Cricket 
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="Zubayer Op",Super Sport Cricket 
 http://public.iptv18.tech/smart.php?id=12167
 
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD
 http://public.iptv18.tech/smart.php?id=12148
 
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 Hindi HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 Hindi HD
 http://public.iptv18.tech/smart.php?id=12149
 
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket HD
@@ -33,5 +33,5 @@ http://public.iptv18.tech/smart.php?id=12141
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Zubayer Op",Fox Cricket HD
 http://public.iptv18.tech/push.php?id=24016
 
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Star Sports 1 HD 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD 2
 http://public.iptv18.tech/push.php?id=22149
