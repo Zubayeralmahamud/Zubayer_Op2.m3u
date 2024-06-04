@@ -1,10 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Zubayer Op",Toffee English  
-https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-1
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Zubayer Op",Toffee Only NS Player
+https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8%7cCookie=
+Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717531228:KeyName=prod_live_events:Signature=US-D0NUcTf3bVYOcfc9QWGGt7vDHjRE__AY6ek64OfWSSHg56diPVF0fmMCdaaqmH5x0UaD2BRq2vnjERhUtBg
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" group-title="Zubayer Op",Toffee Bangla 
-https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" group-title="Zubayer Op",Toffee BN Only NS Player 
+https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717531460:KeyName=prod_live_events:Signature=f7jBMdPbXNG8_ChQW4-LCQkTnr-Xveou3Tk_IYDNnoCJ0ADdRU6HSn4oSl-Y93SGN9zYhBaqbXQwWGAt3w3dDQ
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="Zubayer Op",Super Sport Cricket 
 http://public.iptv18.tech/smart.php?id=12167
