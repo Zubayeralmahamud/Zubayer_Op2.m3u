@@ -10,16 +10,16 @@ https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8%7cCookie=Edge-Cache-Coo
 https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717553156:KeyName=prod_live_events:Signature=uwvCS4vZ_S3qF82r2vuJQWhC5wcuHtUn4pysy-Ot4EC2goe5vZb3U2FRCwNhBeqkd8mGQO6Kbexi5qCQcc2nBA
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="Zubayer Op",Super Sport Cricket 
-http://public.iptv18.tech/smart.php?id=12167
+http://public.iptv18.tech/push.php?id=23949
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD
-http://public.iptv18.tech/smart.php?id=12148
+http://public.iptv18.tech/push.php?id=22149
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 Hindi HD
-http://public.iptv18.tech/smart.php?id=12149
+http://public.iptv18.tech/push.php?id=22147
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket HD
-http://public.iptv18.tech/smart.php?id=10516
+http://public.iptv18.tech/tata.php?id=12169
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket FHD
 http://public.iptv18.tech/smart.php?id=2084
@@ -37,7 +37,7 @@ http://public.iptv18.tech/smart.php?id=12141
 http://public.iptv18.tech/push.php?id=24016
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD 2
-http://public.iptv18.tech/push.php?id=22149
+http://public.iptv18.tech/tata.php?id=12148
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 2 HD
 http://public.iptv18.tech/push.php?id=7458
