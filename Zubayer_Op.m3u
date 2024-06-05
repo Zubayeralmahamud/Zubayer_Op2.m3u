@@ -44,12 +44,3 @@ http://public.iptv18.tech/push.php?id=7458
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Zubayer Op",Willow Extra FHD
 http://public.iptv18.tech/push.php?id=22153
-
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Hotstar English 
-https://vkvsd67.mycdn.me/hls/6582228814441.m3u8/sig/bboJCW1QUyI/srcIp/103.61.224.59/urls/185.226.52.95/expires/1717845404715/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7136451046249/id/6582228814441/video.m3u8?p
-
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Hotstar Hindi
-https://vkvsd67.mycdn.me/hls/6582228814441.m3u8/sig/bboJCW1QUyI/srcIp/103.61.224.59/urls/185.226.52.95/expires/1717845404715/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7136451046249/id/6582228814441/video.m3u8?p
-
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Hotstar Bangla 
-https://vkvsd74.mycdn.me/hls/6591238965865.m3u8/sig/4vp9wqeVb5M/srcIp/103.61.224.59/urls/185.226.52.54/expires/1718053622199/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7141849181033/id/6591238965865/video.m3u8?p
