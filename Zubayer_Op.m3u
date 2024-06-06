@@ -44,3 +44,6 @@ http://public.iptv18.tech/push.php?id=7458
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Zubayer Op",Willow Extra FHD
 http://public.iptv18.tech/push.php?id=22153
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Jxz6MAa3fFM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCniKESeivK0fSvwb0C3RWaJS3VBg" group-title="Zubayer Op",Ten Sports HD
+http://public.iptv18.tech/push.php?id=22158
