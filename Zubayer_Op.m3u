@@ -53,9 +53,3 @@ http://public.iptv18.tech/push.php?id=22158
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Zubayer Op",PTV Sports HD
 http://public.iptv18.tech/push.php?id=23935
-
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Tamasha WEB PK Only
-https://tencentscdn.tamashaweb.com/v1/0188b99654681eb401a6029b3603/0188b9979aad1eb401a6029b3606/tamashapsl2024_720p.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Nagorik TV
-https://himel-op.top/Join-Telegram-@HimelOP_Official/zontv.m3u8?id=15964
