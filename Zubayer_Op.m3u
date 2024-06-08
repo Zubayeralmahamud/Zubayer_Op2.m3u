@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Zubayer Op",Toffee EN Only NS Player 
-https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717856568:KeyName=prod_live_events:Signature=aI_dI5cTFNLC9kunOORbRXf-w4Jgs4DBE57XcSG1yG9U1Bnkf-diawibRzkjXyDXCHxyv9O3IPo9O7RV2HrECg
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Zubayer Op",Toffee EN 
+https://t.ly/Toffee-Match1-EN/Zubayer_Op.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" group-title="Zubayer Op",Toffee BN Only NS Player 
-https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717857055:KeyName=prod_live_events:Signature=F_EM_Ig2_Q2LH3sfiFujGa1EXp4ooBtixI-1yBHY-yX95jidvheRZsFhbDFWweWittx03qoSpSdp5DYhXJZVBg
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" group-title="Zubayer Op",Toffee BN 
+https://t.ly/Toffee-Match1-BN/Zubayer_Op.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300099/logo/240x240/mobile_logo_332351001717400403.png" group-title="Zubayer Op",Toffee EN 2 Off
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300099/logo/240x240/mobile_logo_332351001717400403.png" group-title="Zubayer Op",Toffee EN 2 
+https://t.ly/Toffee-Match2-EN/Zubayer_Op.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300100/logo/240x240/mobile_logo_415428001717680117.png" group-title="Zubayer Op",Toffee BN 2 Off
-
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300100/logo/240x240/mobile_logo_415428001717680117.png" group-title="Zubayer Op",Toffee BN 2 
+https://t.ly/Toffee-Match2-BN/Zubayer_Op.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="Zubayer Op",Super Sport Cricket 
 http://public.iptv18.tech/push.php?id=23949
