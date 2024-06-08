@@ -57,7 +57,7 @@ http://public.iptv18.tech/push.php?id=23935
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports Tamil
 http://public.iptv18.tech/push.php?id=23951
 
-KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
 #EXTINF:-1 tvg-id="ts246" tvg-logo="",Prime WC
 https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd
