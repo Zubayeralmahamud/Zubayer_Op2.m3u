@@ -53,3 +53,6 @@ http://public.iptv18.tech/push.php?id=22158
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Zubayer Op",PTV Sports HD
 http://public.iptv18.tech/push.php?id=23935
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports Tamil
+http://public.iptv18.tech/push.php?id=23951
