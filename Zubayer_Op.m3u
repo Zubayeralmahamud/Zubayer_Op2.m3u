@@ -67,7 +67,7 @@ https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXRd1XLZPhxKK2lIHzu4qtWbFpZRrxCofqkA&usqp=CAU",Prime Hindi WC 
 https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Myco Pakistan IP
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_jRvzTxuyIDDfpeSmoQmsl5bSZuOD17LSg&usqp=CAU" group-title="Zubayer Op",Myco Pakistan IP
 https://mycowcweb.akamaized.net/hls/live/2098793/myco/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
