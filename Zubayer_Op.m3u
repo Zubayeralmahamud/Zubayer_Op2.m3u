@@ -15,8 +15,11 @@ https://t.ly/Toffee-Match2-BN/Zubayer_Op.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="Zubayer Op",Super Sport Cricket FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=13433&deviceMac=00:1A:79:00:97:A1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD 
 http://public.iptv18.tech/tata.php?id=12148
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 2 HD
+http://public.iptv18.tech/push.php?id=7458
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1507600280/1134.png" group-title="Zubayer Op",Sky Cricket FHD
 http://public.iptv18.tech/push.php?id=23946
