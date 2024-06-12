@@ -75,5 +75,5 @@ https://mycowcweb.akamaized.net/hls/live/2098793/myco/master.m3u8
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3b/84/07/3b840713-b68c-2a16-2755-b14e4465f287/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png",ICC TV Only NS
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/ch-hd-01-d/DASH_DASH/Live/channel(ch-hd-01)/hdntl=exp=1718144398~acl=%2fvariant%2fv1blackout%2fch-hd-01-d%2f*~data=hdntl~hmac=f902bdbf1d04d0ead24fdac7fe60b4b9cb08092673eefb6a5d9521c031b8c6ee/manifest.mpd
 
-#EXTINF:-1 tvg-id="ardinesh-jiotv-portal-5920" tvg-logo="" group-title="CRICKET",STAR SPORTS 1 4K
+#EXTINF:-1 tvg-id="ardinesh-jiotv-portal-5920" tvg-logo="" ,STAR SPORTS 1 4K
 https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/star-sports-1-4k/index.ts
