@@ -23,7 +23,7 @@ http://public.iptv18.tech/push.php?id=23946
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c467960712b92d436df3293a1cd9b9c5:04794df98011b6577af406594d831ef7
-#EXTINF:-1 tvg-id="ts246" tvg-logo="",Prime WC
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXRd1XLZPhxKK2lIHzu4qtWbFpZRrxCofqkA&usqp=CAU",Prime WC
 https://ablayc7aaaaaaaamcey5j7rgggelg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/umbtod1may/out/v1/7e545f05ff0c448dbebc68ff11e19a7a/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
