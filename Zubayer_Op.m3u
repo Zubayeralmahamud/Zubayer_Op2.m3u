@@ -18,12 +18,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=13433&deviceMac=00:1A:79:0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD 2
 http://public.iptv18.tech/tata.php?id=12148
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 2 HD
-http://public.iptv18.tech/push.php?id=7458
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports Tamil
-http://public.iptv18.tech/push.php?id=23951
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXRd1XLZPhxKK2lIHzu4qtWbFpZRrxCofqkA&usqp=CAU",Prime WC
