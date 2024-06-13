@@ -50,3 +50,7 @@ https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/star-sports-1-4
 
 #EXTINF:-1 tvg-id="ardinesh-jiotv-portal-8196" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/4943/1424943-a-e3a5d328a913.jpg", group-title="Zubayer Op", STAR SPORTS 2 FHD
 https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/star-sports-2-4k/index.ts
+
+
+#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Testing
+https://iptv.cinehub.wf/mono/ddh2.onlinehdhls.ru:443/ddh2/premium267/tracks-v1a1/mono.m3u8
