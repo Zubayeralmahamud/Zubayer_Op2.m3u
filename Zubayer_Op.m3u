@@ -50,13 +50,3 @@ https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/star-sports-1-4
 
 #EXTINF:-1 tvg-id="ardinesh-jiotv-portal-8196" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/4943/1424943-a-e3a5d328a913.jpg", group-title="Zubayer Op", STAR SPORTS 2 FHD
 https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/star-sports-2-4k/index.ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/key.php?id=881
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/4942/1424942-a-6e211260a748.jpg" group-title="Cricket",Star Sports 1
-https://bpcdn.dialog.lk/bpk-tv/Ch120/output/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/key.php?id=876
-#EXTINF:-1 tvg-id="ts235" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/4943/1424943-a-e3a5d328a913.jpg" group-title="Cricket",SS2 IND IP (NS)
-https://bpcdn.dialog.lk/bpk-tv/Ch069/output/index.mpd
