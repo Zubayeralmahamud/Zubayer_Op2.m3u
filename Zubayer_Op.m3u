@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718274576-EURO-LIVE-1280-.png" group-title="Zubayer Op", EURO 2024
+https://port.denver1769.in/oplx2.php?id=109984
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718274576-EURO-LIVE-1280-.png" group-title="Zubayer Op", EURO Hindi 2024
+https://port.denver1769.in/oplx2.php?id=109985
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Zubayer Op",Toffee EN 
 https://t.ly/TOFFEE-EN1/Zubayer_Op.m3u8
 
@@ -47,3 +53,9 @@ https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket HD
 https://port.denver1769.in/oplx2.php?id=167583
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718274576-EURO-LIVE-1280-.png" group-title="Zubayer Op", EURO 2024 Backup 
+https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/ten-2-4k/index.ts
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718274576-EURO-LIVE-1280-.png" group-title="Zubayer Op", EURO Hindi 2024 Backup 
+https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/ten-3-4k-hindi/index.ts
