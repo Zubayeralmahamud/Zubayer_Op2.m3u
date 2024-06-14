@@ -53,3 +53,6 @@ https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/star-sports-2-4
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718274576-EURO-LIVE-1280-.png" group-title="Zubayer Op", EURO 2024
 https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/ten-2-4k/index.ts
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718274576-EURO-LIVE-1280-.png" group-title="Zubayer Op", EURO Hindi 2024
+https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/ten-3-4k-hindi/index.ts
