@@ -42,6 +42,11 @@ https://port.denver1769.in/Share2.php?id=124269
 https://ablayc7aaaaaaaamcey5j7rgggelg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/umbtod1may/out/v1/7e545f05ff0c448dbebc68ff11e19a7a/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1105b85e6db6214e686e462206ed86ec:59d851187354b65fa2d14829046893ef
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXRd1XLZPhxKK2lIHzu4qtWbFpZRrxCofqkA&usqp=CAU",Prime WC Hindi
+https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3b/84/07/3b840713-b68c-2a16-2755-b14e4465f287/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png",ICC TV Only NS
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/ch-hd-01-d/DASH_DASH/Live/channel(ch-hd-01)/hdntl=exp=1718608923~acl=%2fvariant%2fv1blackout%2fch-hd-01-d%2f*~data=hdntl~hmac=43c365acf24b5f9112b7dde8eae644df35f6096305ccd65e80f0ce83160dc006/manifest.mpd
