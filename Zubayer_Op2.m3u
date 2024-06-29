@@ -36,6 +36,10 @@ http://port.denver1769.in/j.php?tv=11793
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1507600280/1134.png" group-title="Zubayer Op",Sky Cricket HD
 https://port.denver1769.in/oplx2.php?id=167594
 
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3b/84/07/3b840713-b68c-2a16-2755-b14e4465f287/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" group-title="Zubayer Op",ICC TV
+https://hls.livecricketsl.xyz/hls/icc/index.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c467960712b92d436df3293a1cd9b9c5:04794df98011b6577af406594d831ef7
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXRd1XLZPhxKK2lIHzu4qtWbFpZRrxCofqkA&usqp=CAU",PRIME WC
