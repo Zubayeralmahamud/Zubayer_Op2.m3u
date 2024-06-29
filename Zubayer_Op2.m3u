@@ -47,6 +47,16 @@ https://ablayc7aaaaaaaamcey5j7rgggelg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=647eb8fbf1657140ea163dc9b3256893:5c28e72874cd4f73b9ed379957e8ba42
+#EXTINF:-1 tvg-id="ts246" tvg-logo="",Prime WC 50 FPS
+https://aba5sdmaaaaaaaamcs7bgwx2cgzhi.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iwzi8fxh4z/out/v1/0e29b056e9c04ae180ef297263d2967d/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6da8c268d58a0fe4ff75d297359a8ad7:eb0ae4c2c24a52070154499bb09a36cb
+#EXTINF:-1 tvg-id="ts246" tvg-logo="",Prime WC 50 FPS Hindi
+https://aba5sdmaaaaaaaamcs7bgwx2cgzhi.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bopqv4fykb/out/v1/01d1290c69584c7cbf58b8ab404ea1b8/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3b/84/07/3b840713-b68c-2a16-2755-b14e4465f287/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png",ICC TV Only NS
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/ch-hd-01-d/DASH_DASH/Live/channel(ch-hd-01)/hdntl=exp=1719699933~acl=%2fvariant%2fv1blackout%2fch-hd-01-d%2f*~data=hdntl~hmac=4b98d537b9f28061a81c2a13fee184bc093d9b4695468d2be7e8906e5265c9d7/manifest.mpd
