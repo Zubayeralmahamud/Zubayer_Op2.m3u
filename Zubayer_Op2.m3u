@@ -1,5 +1,13 @@
 #EXTM3U
 
+<html>
+ <head>
+  <script>
+   window.location.replace("https://t.me/Zubayer_Op_Official");
+  </script>
+ </head>
+</html>
+
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718274576-EURO-LIVE-1280-.png" group-title="Zubayer Op",Euro 2024
 https://madplay.live/hls/jiotv/stream.php?id=523&e=.m3u8
 
