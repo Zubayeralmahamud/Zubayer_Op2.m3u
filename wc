@@ -1,7 +1,0 @@
-#EXTM3U
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2135bf415cfea9ea3e6b26a6fce8fc3:2671da359a0a860668baca2e34f243f6
-#EXTINF:-1 tvg-id="amzn1.dv.gti.97b02e1b-7dc9-4c5c-91fe-ec48399ebb00" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97b02e1b-7dc9-4c5c-91fe-ec48399ebb00/3/BOXART-16X9/en-US/1920x1080._UY222_BG0,0,0_FP_.png" group-title="Live events",Sri Lanka vs. Ireland
-#EXTVLCOPT:http-user-agent=Denver1769
-https://a186live-pv-ta-amazon.akamaized.net/syd-nitro/live/clients/dash/enc/roz6siecjv/out/v1/d25c047441ed467595c8085109e0d73f/cenc.mpd|User-Agent=Denver1769
